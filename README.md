@@ -1,2 +1,2 @@
 # islp
-An Introduction to Statistical Learning with Application in Python
+An Introduction to Statistical Learning with Applications in Python
